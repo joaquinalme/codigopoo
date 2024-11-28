@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21378119-7",
+ "nombre": "Joaquin",
+ "apellido": "Almendares",
+ "direccion": "Inacap",
+ "fono": 40652453,
+ "correo":"joaquin.almendares@inacapmail.com",
+ "montoCredito": 505050,
+ "deuda":606060,
+ "tipo": 3
+ }
+]
